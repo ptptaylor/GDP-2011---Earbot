@@ -1,3 +1,5 @@
+%Function to search through cross-correlation for peak/peaks
+
 function [position,strength] = peaksearch(cross_n)
 
 
